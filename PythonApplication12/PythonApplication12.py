@@ -23,5 +23,6 @@ print(result(2))
 result = combine('subtrct')
 print(result(3))
 
-
- 
+names = 'Nazar' 'Yevhennii dolbaeb '
+user_name_upper = (lambda user_name:user_name.upper(),names)
+print(list(user_name_upper ))
